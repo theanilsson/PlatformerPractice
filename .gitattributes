@@ -11,4 +11,4 @@ Saved/** linguist-detectable = false
 *.dll linguist-detectable = false
 *.modules linguist-detectable = false
 *.target linguist-detectable = false
-*. linguist-detectable = false
+*.h linguist-detectable = false
