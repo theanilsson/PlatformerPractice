@@ -4,3 +4,4 @@ Binaries/** linguist-detectable = false
 Config/** linguist-detectable = false
 Intermediate/** linguist-detectable = false
 Saved/** linguist-detectable = false
+*.h linguist-detectable = false
