@@ -1,1 +1,6 @@
 Content/*
+Binaries/*
+.vscode/*
+Config/*
+Intermediate/*
+Saved/*
