@@ -5,3 +5,4 @@ Config/* linguist-detectable = false
 Intermediate/* linguist-detectable = false
 Saved/* linguist-detectable = false
 *.h linguist-detectable = false
+*.cs linguist-detectable = false
