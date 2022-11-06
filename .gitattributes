@@ -7,3 +7,5 @@ Intermediate/*.cs linguist-detectable = false
 Intermediate/*.c linguist-detectable = false
 Intermediate/*.h linguist-detectable = false
 Saved/* linguist-detectable = false
+*.h
+*.h linguist-detectable = false
