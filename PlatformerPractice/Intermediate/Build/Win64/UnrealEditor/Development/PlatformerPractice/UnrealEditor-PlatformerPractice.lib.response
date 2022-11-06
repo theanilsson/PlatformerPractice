@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PlatformerPractice.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\PlatformerPracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\UnrealEditor\Development\PlatformerPractice\MovingPlatform.cpp.obj"
+"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\UnrealEditor\Development\PlatformerPractice\PlatformerPractice.cpp.obj"
+"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\UnrealEditor\Development\PlatformerPractice\MovingPlatform.gen.cpp.obj"
+"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\UnrealEditor\Development\PlatformerPractice\PlatformerPractice.init.gen.cpp.obj"
+"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\UnrealEditor\Development\PlatformerPractice\Default.rc2.res"
+/OUT:"C:\Users\lluca\Documents\Unreal Projects\PlatformerPractice\Intermediate\Build\Win64\UnrealEditor\Development\PlatformerPractice\UnrealEditor-PlatformerPractice.lib"

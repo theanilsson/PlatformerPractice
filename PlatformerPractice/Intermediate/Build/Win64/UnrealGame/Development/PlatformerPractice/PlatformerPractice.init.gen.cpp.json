@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lluca\\documents\\unreal projects\\platformerpractice\\intermediate\\build\\win64\\unrealgame\\inc\\platformerpractice\\platformerpractice.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lluca\\documents\\unreal projects\\platformerpractice\\intermediate\\build\\win64\\platformerpractice\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lluca\\documents\\unreal projects\\platformerpractice\\intermediate\\build\\win64\\unrealgame\\development\\platformerpractice\\definitions.platformerpractice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

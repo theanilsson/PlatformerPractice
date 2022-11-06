@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PlatformerPractice",
+			"Path": "C:\\Users\\lluca\\Documents\\Unreal Projects\\PlatformerPractice\\Source\\PlatformerPractice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlatformerPracticeEditor",
+			"Path": "C:\\Users\\lluca\\Documents\\Unreal Projects\\PlatformerPractice\\Source\\PlatformerPracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

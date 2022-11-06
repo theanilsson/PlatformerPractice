@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PlatformerPractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PlatformerPractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlatformerPracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Link to Source Assets.txt" />
+    <None Include="..\..\SCK_Casual01.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\PlatformerPractice">
+      <UniqueIdentifier>{C752867C-67F0-3421-B18B-4A4BD1B03F22}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PlatformerPractice\MovingPlatform.cpp">
+      <Filter>Source\PlatformerPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformerPractice\MovingPlatform.h">
+      <Filter>Source\PlatformerPractice</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PlatformerPractice\PlatformerPractice.Build.cs">
+      <Filter>Source\PlatformerPractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PlatformerPractice\PlatformerPractice.cpp">
+      <Filter>Source\PlatformerPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformerPractice\PlatformerPractice.h">
+      <Filter>Source\PlatformerPractice</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
