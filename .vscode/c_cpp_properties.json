@@ -1,19 +1,14 @@
 {
-    "configurations": [
-        {
-            "name": "PlatformerPracticeEditor Editor Win64 Development (PlatformerPractice)",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\PlatformerPractice\\.vscode\\compileCommands_PlatformerPractice.json",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
-        },
-        {
-            "name": "Win32",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\PlatformerPractice\\.vscode\\compileCommands_Default.json",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
-        }
-    ],
-    "version": 4
+	"configurations": [
+		{
+			"name": "PlatformerPracticeEditor Editor Win64 Development (PlatformerPractice)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\PlatformerPractice\\.vscode\\compileCommands_PlatformerPractice.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\PlatformerPractice\\.vscode\\compileCommands_Default.json"
+		}
+	]
 }
